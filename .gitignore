@@ -1,0 +1,7 @@
+*.class
+*.pyc
+*.pyo
+
+.project
+
+.settings/com.aptana.editor.php.prefs
